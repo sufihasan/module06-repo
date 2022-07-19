@@ -1,0 +1,32 @@
+nav ul {
+
+    display: flex;
+    background-color: rgb(174, 105, 238);
+    border-radius: 10px;
+    position: relative;
+
+}
+
+nav li {
+
+    list-style: none;
+    margin: 20px;
+    padding: 5px;
+
+}
+
+nav li:hover {
+    background-color: rgb(129, 129, 235);
+    border-radius: 5px;
+}
+
+nav li a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.bar {
+    margin-left: 90%;
+
+    position: absolute;
+}
